@@ -1,6 +1,6 @@
 # Cliff Ryan
 
-Denver, Colorado · 720-695-7453 · [cliff.ryan00@gmail.com](mailto:cliff.ryan00@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cliffordryan/) · [GitHub](https://github.com/sdncoder)
+Denver, Colorado · 720-695-7453 · [cliff.ryan00@gmail.com](mailto:cliff.ryan00@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cliffordryan/)  
 
 ---
 
