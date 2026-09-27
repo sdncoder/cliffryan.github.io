@@ -15,6 +15,7 @@ Denver, Colorado · 720-695-7453 · [cliff.ryan00@gmail.com](mailto:cliff.ryan00
 | Sr. Manager, Network Services | Mar 2018 – Jun 2021 | Orlando, Florida |
 
 - Own design, deployment, and support of NBC's global data centers, backbone POPs, cloud and campus networks. Lead a 30-person team (US/UK) and manage all network CapEx/OpEx, vendor contracts and hardware lifecycle programs.
+- 
 - Led deployment of Mellanox-to-Arista data center and campus rebuild for DreamWorks Animation, deploying a Clos spine-leaf (BGP-EVPN/VXLAN) that unified the HPC data center and campus workstations into a large-scale off-hours combined render farm.
 - Bootstrapped NBC's NetDevOps team to engineer an internal network automation platform. GitHub-hosted version control with NetBox as IaC source of truth. Built Ansible- and Python-based deployment tooling with continuous auto-remediation and ZTP capability.
 - Led sourcing and deployment of Cisco/Arista campus and data center 100/400G spine-leaf fabrics in NYC and LA, including site logistics, structured cabling/power buildout, and cutover of multi-tenant overlays.
