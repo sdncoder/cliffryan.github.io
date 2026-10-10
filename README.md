@@ -1,51 +1,76 @@
 # Cliff Ryan
 
-Denver, Colorado · 720-695-7453 · [cliff.ryan00@gmail.com](mailto:cliff.ryan00@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cliffordryan/)  
+**VP, Global Network Engineering · NBCUniversal**
+
+📍 Denver, Colorado · 📞 720-695-7453 · ✉️ [cliff.ryan00@gmail.com](mailto:cliff.ryan00@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/cliffordryan/) · 💻 [GitHub](https://github.com/sdncoder)
+
+Network engineering leader building carrier-grade backbone, broadcast production, and cloud edge infrastructure for live sports and entertainment. Three-time Emmy Award recipient for broadcast network engineering, including the Paris 2024 Olympics.
+
+---
+
+## Core Expertise
+
+| Area | Technologies & Focus |
+|---|---|
+| **Backbone & Routing** | IS-IS, MP-BGP, IP/MPLS, MPLS-SR, Flex-Algo, TI-LFA, MPLS-TE/DS-TE, IPv4/IPv6 dual-stack, peering & transit |
+| **Transport & Physical** | 100G backbone, diverse OTN edges, KMZ path planning, colocation deployments |
+| **Cloud & WAN** | AWS/Azure edge interconnects, WAN/VPN, SDN (Arista DirectFlow) |
+| **Automation** | NetDevOps, Infrastructure as Code, NetBox, GitHub, Python, automated audit & remediation |
+| **Security & OT** | Routing domain isolation, L7 firewalls, SIEM integration, SCADA / BMS / PCI networks |
+| **Leadership** | 35-person global team, $45M CapEx lifecycle programs, vendor selection & procurement |
 
 ---
 
 ## Professional Experience
 
-### NBCUniversal
+### NBCUniversal — VP, Global Network Engineering
+*Dec 2022 – Present · Denver, Colorado*
 
-| Role | Dates | Location |
+- Direct a team of 35 through all network and security infrastructure deployments end to end, from vendor selection and procurement through logistics, on-site cabling, configuration, traffic migration, routing and security policy validation, and observability stack onboarding.
+- Own the network infrastructure and capacity planning for NBC's live sports and entertainment streaming, contribution, and distribution workflows. Lead the planning and deployment of remote networks, peering/transit diversity and augmentation, and cloud edge interconnects to AWS/Azure.
+- Lead a **$45M CapEx** end-of-life program to retire network and security technical debt, refreshing **6,000 devices** across the US, UK, and Asia and combining vendor/in-house automation to accelerate software version compliance.
+- Managed design, deployment, and support for remote and in-country infrastructure for the **Paris 2024** and **Milan-Cortina 2026 Olympics**. Initiated WAN and VPN improvements, scaled automation, and expanded native cloud workflow capabilities to support the largest remotely produced (Paris) and geographically dispersed (Milan) events in NBC history.
+
+### NBCUniversal — Director, Network Engineering
+*Jun 2021 – Dec 2022 · Denver, Colorado*
+
+- Rebuilt a **100G backbone across 25 colocation facilities**, planning KMZ paths and diverse OTN edges to ensure physical isolation. Introduced MPLS-SR / Flex-Algo / TI-LFA to build traffic-engineered paths and new services for live broadcast and post-production teams.
+- Started a **NetDevOps** team to build an in-house deployment platform, using GitHub-hosted version control, NetBox as the Infrastructure as Code source of truth, and Python-based tooling for consistent configuration at scale with automated audit and remediation.
+
+### NBCUniversal — Sr. Manager, Network Services
+*Mar 2018 – Jun 2021 · Orlando, Florida*
+
+- Led network engineering initiatives at Universal Studios to secure SCADA, BMS, and PCI systems over a converged network and security infrastructure. Deployed routing domain isolation and L7 firewalls with SIEM integration to ensure visibility and control.
+
+### 21st Century Fox — Manager, Network Engineering
+*Mar 2014 – Mar 2018 · Houston, Texas*
+
+- Deployed a new production WAN using **Arista DirectFlow SDN**, upgrading backbone POPs in Los Angeles, Houston, Chicago, and Washington, D.C., and extending to 15 regional edge sites, enabling flow-based traffic engineering without classic MPLS protocols.
+
+### Intelsat — Network Engineer
+*Apr 2010 – Mar 2014 · Atlanta, Georgia*
+
+- Designed and deployed a **global IP/MPLS backbone** (IS-IS, MP-BGP, MPLS/DS-TE) with 1+1 diverse LSPs and RTP hitless merge for live video, plus dual-stack IPv4/IPv6 transit with BGP peering.
+
+---
+
+## Awards
+
+| Award | Role | Event |
 |---|---|---|
-| VP, Global Network Engineering | Dec 2022 – Present | Denver, Colorado |
-| Director, Network Engineering | Jun 2021 – Dec 2022 | Denver, Colorado |
-| Sr. Manager, Network Services | Mar 2018 – Jun 2021 | Orlando, Florida |
+| 🏆 Emmy Award | Broadcast Network Engineer | Olympics 2024 – Overall · Paris |
+| 🏆 Emmy Award | Broadcast Network Engineer | Olympics 2024 – Studio · Paris |
+| 🏆 Emmy Award | Video Engineer | FIFA Women's World Cup 2015 · Canada |
 
-- Own design, deployment, and support of NBC's global data centers, backbone POPs, cloud and campus networks. Lead a 30-person team (US/UK) and manage all network CapEx/OpEx, vendor contracts and hardware lifecycle programs.
-  
-- Led deployment of Mellanox-to-Arista data center and campus rebuild for DreamWorks Animation, deploying a Clos spine-leaf (BGP-EVPN/VXLAN) that unified the HPC data center and campus workstations into a large-scale off-hours combined render farm.
-  
-- Bootstrapped NBC's NetDevOps team to engineer an internal network automation platform. GitHub-hosted version control with NetBox as IaC source of truth. Built Ansible- and Python-based deployment tooling with continuous auto-remediation and ZTP capability.
-  
-- Led sourcing and deployment of Cisco/Arista campus and data center 100/400G spine-leaf fabrics in NYC and LA, including site logistics, structured cabling/power buildout, and cutover of multi-tenant overlays.
-  
-- Deployed an xG wave backbone across 25 colocation facilities, planned KMZ paths and diverse OTN edges to ensure physical isolation. Layered MPLS-SR, MP-BGP, TI-LFA sub-50ms fast reroute, and end-to-end QoS on top to deliver traffic-engineered, latency-optimized paths for live production and cloud workflows.
-  
-- Implemented cross-region interconnects via L3VPN overlays for cloud and Internet resilience and deployed four geo-diverse 100G AWS/Azure (East/West) edges with traffic-engineered optimal egress paths.
-  
+## Media & Speaking
 
-### 21st Century Fox
-
-| Role | Dates | Location |
-|---|---|---|
-| Manager, Network Engineering | Mar 2014 – Mar 2018 | Houston, Texas |
-
-- Rebuilt Fox's legacy WAN with Arista's DirectFlow SDN. Upgraded backbone locations in LA, Houston, Chicago, and Washington D.C.; deployed edge networks at 15 regional sites.
-
-### Intelsat
-
-| Role | Dates | Location |
-|---|---|---|
-| Network Engineer | Apr 2010 – Mar 2014 | Atlanta, Georgia |
-
-- Designed and deployed a global IP/MPLS backbone (IS-IS, MP-BGP, MPLS-TE/DS-TE) with 1+1 diverse LSPs and RTP hitless merge for live video, plus dual-stack IPv4/IPv6 transit with BGP peering.
+- **"Operational AI Insight"** — *Tech Unscripted* podcast, Jul 2026 (guest)
+- **"The Network Is the New Production Truck"** — *SiliconANGLE*, Feb 2026 (quoted)
+- **"NBC Sports Selects Cisco for Paris Olympics IP Networking"** — *Sports Video Group*, Jul 2024 (quoted)
 
 ---
 
 ## Education
 
-- **MS, Engineering** — University of Wisconsin-Platteville
-- **BS, Engineering Technology** — University of Akron
+- **MS, Engineering** — University of Wisconsin–Platteville, 2008
+- **BS, Engineering Technology** — University of Akron, 1997
