@@ -8,19 +8,6 @@ Network engineering leader building carrier-grade backbone, broadcast production
 
 ---
 
-## Core Expertise
-
-| Area | Technologies & Focus |
-|---|---|
-| **Backbone & Routing** | IS-IS, MP-BGP, IP/MPLS, MPLS-SR, Flex-Algo, TI-LFA, MPLS-TE/DS-TE, IPv4/IPv6 dual-stack, peering & transit |
-| **Transport & Physical** | 100G backbone, diverse OTN edges, KMZ path planning, colocation deployments |
-| **Cloud & WAN** | AWS/Azure edge interconnects, WAN/VPN, SDN (Arista DirectFlow) |
-| **Automation** | NetDevOps, Infrastructure as Code, NetBox, GitHub, Python, automated audit & remediation |
-| **Security & OT** | Routing domain isolation, L7 firewalls, SIEM integration, SCADA / BMS / PCI networks |
-| **Leadership** | 35-person global team, $45M CapEx lifecycle programs, vendor selection & procurement |
-
----
-
 ## Professional Experience
 
 ### NBCUniversal — VP, Global Network Engineering
