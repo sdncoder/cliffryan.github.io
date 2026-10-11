@@ -2,7 +2,7 @@
 
 **VP, Global Network Engineering · NBCUniversal**
 
-📍 Denver, Colorado · 📞 720-695-7453 · ✉️ [cliff.ryan00@gmail.com](mailto:cliff.ryan00@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/cliffordryan/) · 💻 [GitHub](https://github.com/sdncoder)
+📍 Denver, Colorado. 
 
 Network engineering leader building carrier-grade backbone, broadcast production, and cloud edge infrastructure for live sports and entertainment. Three-time Emmy Award recipient for broadcast network engineering, including the Paris 2024 Olympics.
 
