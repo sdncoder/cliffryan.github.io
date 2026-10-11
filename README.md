@@ -4,8 +4,6 @@
 
 📍 Denver, Colorado. 
 
-Network engineering leader building carrier-grade backbone, broadcast production, and cloud edge infrastructure for live sports and entertainment. Three-time Emmy Award recipient for broadcast network engineering, including the Paris 2024 Olympics.
-
 ---
 
 ## Professional Experience
